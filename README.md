@@ -2,6 +2,8 @@
 
 I'm just normal people that learn programming.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaXan&theme=midnight-purple&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/506212044152897546)](https://discord.com/users/506212044152897546)
 
 My [Telegram](https://t.me/ElashXander)\
