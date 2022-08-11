@@ -1,6 +1,8 @@
 ## Hello there
 
-I'm just normal people that learn programming.
+I'm just normal people that learn programming.\
+Mostly coding on the phone, because it's easy and fast\
+VSCode only for fix Code XD
 
 [![wakatime](https://wakatime.com/badge/user/050faae8-59ef-491c-85ff-36cd6df277f6.svg)](https://wakatime.com/@050faae8-59ef-491c-85ff-36cd6df277f6)
 
