@@ -2,7 +2,7 @@
 
 I'm just normal people that learning some language program\
 and i make mostly stuff for Termux!\
-[![Discord Presence](https://lanyard.cnrad.dev/api/506212044152897546)](https://discord.com/users/506212044152897546)
+[![Discord Presence](https://lanyard.cnrad.dev/api/506212044152897546?idleMessage=Maybe%20he%20doing%20make%20a%20Stuff!)](https://discord.com/users/506212044152897546)
 <details markdown='1'><summary>Wakatime</summary>
 
 [![wakatime](https://wakatime.com/badge/user/050faae8-59ef-491c-85ff-36cd6df277f6.svg)](https://wakatime.com/@050faae8-59ef-491c-85ff-36cd6df277f6)\
