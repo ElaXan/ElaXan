@@ -4,7 +4,7 @@ I'm just normal people that learning some language program\
 and i make mostly stuff for Termux!\
 Javascript is scary Help!\
 All Public Repository will be move to [Score-Inc](https://github.com/Score-Inc)\
-Here only for Private Repository
+Here only for Private Repository or Forked Repository 
 
 # Support me
 <a href="https://www.buymeacoffee.com/ElashXander" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
