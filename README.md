@@ -1,4 +1,4 @@
-# Hello there
+# Hello there, I am a Melon!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F7390D&width=435&lines=Hi%2C+I'm+ElaXan+(Z3RO%234032);I'm+from+Indonesia;I+am+interested+in+Nodejs;Or+even+Python;Still+trying+to+understand+java;Check+my+docs+in+docs.elaxan.com)](https://git.io/typing-svg)
 
 ## Tool
