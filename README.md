@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Discord Bot](https://discord.com/application-directory/1025731363674009681)
 
-- 🌱 I’m currently learning **React** and **Rust**
+- 🌱 I’m currently learning **React**, **Rust** and **Tauri**
 
 - 📫 How to reach me **zero@elaxan.com**
 
