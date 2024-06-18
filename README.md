@@ -76,11 +76,11 @@
 
 - 📫 How to reach me **zero@elaxan.com**
 
-<h3><img width="30" height="30" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" alt="Discord Logo"> Discord Presence</h3>
+<h3 align="left"><img width="30" height="30" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" alt="Discord Logo"/> Discord Presence</h3>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/506212044152897546?idleMessage=Maybe%20he%20doing%20make%20a%20Stuff!)](https://discord.com/users/506212044152897546)
 
-<h3 align="center"></h3>
+<h3 align="left">Wakatime</h3>
 <a href="https://wakatime.com/@ElaXan">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ElaXan" alt="WakaTimeee">
 </a>
