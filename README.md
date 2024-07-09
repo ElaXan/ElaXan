@@ -5,9 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elaxan&label=Profile%20views&color=0e75b6&style=flat" alt="elaxan" /> </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
@@ -78,7 +75,8 @@
 
 <h3 align="left"><img width="30" height="30" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" alt="Discord Logo"/> Discord Presence</h3>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/506212044152897546?idleMessage=Maybe%20he%20doing%20make%20a%20Stuff!)](https://discord.com/users/506212044152897546)
+[![Discord Presence](https://lanyard.cnrad.dev/api/506212044152897546?idleMessage=Maybe%20he%27s%20making%20some%20stuff!)](https://discord.com/users/506212044152897546)
+
 
 <h3 align="left">Wakatime</h3>
 <a href="https://wakatime.com/@ElaXan">
