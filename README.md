@@ -67,7 +67,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Discord Bot](https://discord.com/users/1213132983947501598) and [Handbook Finder](https://gitlab.com/YuukiPS/handbook) ([website](https://gm.elaxan.com))
+- 🔭 I’m currently working on [Handbook Finder](https://github.com/YuukiPS/handbook) ([website](https://gm.elaxan.xyz))
 
 - 🌱 I’m currently learning **React**, **Rust** and **Tauri**
 
