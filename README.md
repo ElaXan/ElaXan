@@ -71,7 +71,7 @@
 
 - 🌱 I’m currently learning **React**, **Rust** and **Tauri**
 
-- 📫 How to reach me **zero@elaxan.com**
+- 📫 How to reach me **elaxan@protonmail.com**
 
 <h3 align="left"><img width="30" height="30" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" alt="Discord Logo"/> Discord Presence</h3>
 
