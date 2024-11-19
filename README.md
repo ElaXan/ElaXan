@@ -67,9 +67,9 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Handbook Finder](https://github.com/YuukiPS/handbook) ([website](https://gm.elaxan.xyz))
+- 🔭 I’m currently working on [Handbook Finder](https://github.com/YuukiPS/handbook) ([website](https://gm.elaxan.xyz)) and FiveM Server.
 
-- 🌱 I’m currently learning **React**, **Rust** and **Tauri**
+- 🌱 I’m currently learning **React** and **Lua** (again)
 
 - 📫 How to reach me **elaxan@protonmail.com**
 
